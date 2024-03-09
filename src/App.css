@@ -1,0 +1,7 @@
+.App{
+  display: flex;
+  gap: 50px;
+  max-width: 1080px;
+  margin-top: 200px;
+  margin-left: 350px;
+}

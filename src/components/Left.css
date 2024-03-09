@@ -1,0 +1,25 @@
+.input{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.input input{
+    height: 40px;
+    width: 200px;
+    padding: 5px;
+    background-color: rgb(110, 110, 143);
+}
+.temprature{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: antiquewhite;
+}
+.date{
+    margin-top: 20px;
+    color: antiquewhite;
+}
+.city-name{
+    margin-left: 50px;
+    color: white;
+    font-weight: 500;
+}
